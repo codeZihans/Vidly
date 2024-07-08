@@ -83,3 +83,9 @@ D:\Codes\DotNet\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 D:\Codes\DotNet\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 D:\Codes\DotNet\Vidly\Vidly\obj\Debug\Vidly.dll
 D:\Codes\DotNet\Vidly\Vidly\obj\Debug\Vidly.pdb
+D:\Codes\DotNet\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+D:\Codes\DotNet\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+D:\Codes\DotNet\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel1.resources
+D:\Codes\DotNet\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+D:\Codes\DotNet\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+D:\Codes\DotNet\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToNewsLetter.resources
